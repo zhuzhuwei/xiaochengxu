@@ -1,0 +1,32 @@
+<view class='container'>
+
+  <view class='chuji'>
+    <text class='title'>初级</text>
+    <view>
+      <text class='journey'>初级会计实务</text>
+      <text class='journey'>经济法基础</text>
+    </view>
+  </view>
+
+  <view class='zhongji'>
+    <text>中级</text>
+    <view>
+      <text class='journey'>中级会计实务</text>
+      <text class='journey'>经济法</text>
+      <text class='journey'>财务管理</text>
+    </view>
+  </view>
+
+  <view class='zhukuai'>
+    <text>注册会计师</text>
+    <view>
+      <text class='journey'>审计</text>
+      <text class='journey'>财务成本管理</text>
+      <text class='journey'>经济法</text>
+      <text class='journey'>会计</text>
+      <text class='journey'>税法</text>
+      <text class='journey'>公司战略与风险管理</text>
+    </view>
+  </view>
+
+</view>

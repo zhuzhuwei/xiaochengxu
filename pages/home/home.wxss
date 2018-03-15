@@ -1,0 +1,43 @@
+.container{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 0 0;
+  background-color:#b3d4db;
+}
+.title{
+  width: 100%;
+  padding-left: 50%
+}
+page{
+  background-color:#b3d4db;
+}
+
+.chuji{
+  margin-top: 30px;
+}
+
+.zhongji{
+  margin-top: 50px;
+}
+
+.gaoji{
+  margin-top: 50px;
+}
+
+.zhukuai{
+  margin-top: 50px;
+}
+
+.journey{
+    border: 1px solid #405f80;
+    height: 80rpx;
+    border-radius: 5px;
+    text-align:center;
+    float: left;
+    padding-left: 20rpx;
+    padding-right: 20rpx;
+    line-height: 80rpx;
+    margin-left: 90rpx;
+}
+
