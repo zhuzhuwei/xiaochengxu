@@ -1,0 +1,24 @@
+<!--pages/problem/problem.wxml-->
+<view>
+  <view>
+    <text>单选题</text>
+  </view>
+
+  <view>
+    <text>下列情形中，纳税人应当先向复议机关申请行政复议，对行政复议决定不服，可以再向人民法院提起行政诉讼的是（）</text>
+  </view>
+
+  <view>
+
+<radio-group class="radio-group" bindchange="radioChange">
+  <label class="radio" wx:for="{{items}}">
+    <radio value="{{item.name}}" checked="{{item.checked}}"/>{{item.value}}
+  </label>
+</radio-group>
+
+
+
+  </view>
+
+
+</view>

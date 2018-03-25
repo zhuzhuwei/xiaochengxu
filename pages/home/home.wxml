@@ -3,7 +3,7 @@
   <view class='chuji'>
     <text class='title'>初级</text>
     <view>
-      <text class='journey'>初级会计实务</text>
+      <text class='journey' bindtap='toProblem'>初级会计实务</text>
       <text class='journey'>经济法基础</text>
     </view>
   </view>
